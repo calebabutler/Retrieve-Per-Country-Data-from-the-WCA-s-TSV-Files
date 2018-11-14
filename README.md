@@ -1,4 +1,4 @@
-# Retrieve Per Country Data from the WCA's TSV Files
+# Retrieve Per-Country Data from the WCA's TSV Files
 
 These python scripts are simple to use, there are just three commands necessary:
 
